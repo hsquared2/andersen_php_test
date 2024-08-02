@@ -1,0 +1,11 @@
+ID,Type of Transfer,Amount,Currency,Date of Operation,User ID,Type of Customer
+1,IN,500,EUR,2024-07-20,1000,natural
+2,OUT,250,EUR,2024-07-21,1000,natural
+3,OUT,450,EUR,2024-07-21,1000,natural
+4,OUT,400,EUR,2024-07-26,900,legal
+5,IN,350,EUR,2024-07-29,900,legal
+6,OUT,1200,EUR,2024-07-30,900,legal
+7,OUT,1000,EUR,2024-07-31,900,legal
+8,OUT,799,EUR,2024-07-31,1000,natural
+9,IN,560,EUR,2024-07-31,1000,natural
+10,OUT,1700,EUR,2024-08-01,1100,legal
